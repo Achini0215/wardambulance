@@ -1,0 +1,37 @@
+.wardSubmit {
+    background-color: #078d3a;
+    color: #ffffff;
+    padding: 6px;
+    border: #0c6464;
+    margin-top: 20px;
+    margin-left: 350px;
+    width: 140px;
+    height: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+
+  .wardReportGen {
+    background-color: #078d3a;
+    color: #ffffff;
+    padding: 6px;
+    border: #0c6464;
+    margin-top: 20px;
+    margin-left: 700px;
+    width: 240px;
+    height: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+
+  .wardSubmit:hover,
+  .wardReportGen:hover {
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  .WardContainer{
+    margin-top: 2%;
+  }
